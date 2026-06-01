@@ -206,3 +206,15 @@ for site_name, result in results.items():
 ## 更多資訊
 
 詳細文件請參考 `src/crawlers/README.md`
+
+## 整理說明
+
+本次整理將專案中常用的資料與輸出分門別類，方便開發與備份：
+
+- `data/`：包含原本的 `crawled_pages/` 與 `downloaded_files/`（爬取的原始資料與快照）。
+- `results/`：包含原本的 `crawler_results.json`、`crawler_manager_results.json`、`CRAWLER_TEST_REPORT.md`（執行結果與報告）。
+- `examples/`：原本的 `simple_crawl.py`、`debug_fetcher.py`、`test_crawlers.py` 移至此處，作為範例或快速測試使用。
+- `references/`：原本的 `參考/` 已移至 `references/`（第三方範例與參考資料）。
+- `tools/`：原本的 `Scrapling-main/` 已移至 `tools/Scrapling-main/`（大型外部專案或工具集）。
+
+若有腳本或文件引用到舊路徑，請依需要更新路徑設定；我已保留原始檔案名稱，僅調整目錄結構。
