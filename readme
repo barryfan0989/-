@@ -6,14 +6,15 @@
 ## 技術與工具
 
 - 語言：Python 3.x
-- 爬蟲核心：Scrapling（https://github.com/D4Vinci/Scrapling）
+**爬蟲工具**：不強制單一工具。可視目標網站防爬程度，靈活混用 `requests` + `BeautifulSoup`、`Scrapling`、`Playwright` 等。
+- **資料庫與 ORM**：MySQL (Aiven 雲端服務)，使用 `pymysql` 或 `SQLAlchemy`。
 - 資料庫：MySQL（存取可使用 `pymysql` 或 `SQLAlchemy`）
 - 架構：物件導向 (OOP)、策略模式 (Strategy Pattern)、模組化設計
 
 ## 主要輸出
 
 - 七個實體表（`users`, `artists`, `artist_news`, `artist_categories`, `venues`, `events`, `event_tickets`）與一個多對多橋樑表 `event_artists`。
-- 一個檢視表 `v_all_events_summary`，以便前端一次取得完整活動資訊。
+- 一个檢視表 `v_all_events_summary`，以便前端一次取得完整活動資訊。
 
 ---
 
@@ -94,7 +95,7 @@ SSL mode：REQUIRED
 ### 模組一：售票網爬蟲（Stage 1 Crawler）
 
 
-- 目標網站：Indievox、KKTIX、ticket.com.tw（拓元）、ibon、寬宏（Kham）。
+- 目標網站：遠大、寬宏、kktix、tixcraft、年代、Indievox、ibon。
 - 條件：只抓取「表演/演唱會」活動，排除展覽與體育。
 - 欄位：活動名稱、來源網站、活動網址、演出時間、購票時間、場館名稱、藝人名稱、票種與票價等。
 - 實作：定義 `BaseTicketCrawler` 抽象類，各站實作自己的 `Crawler` 並回傳統一的資料結構（`Event` dataclass）。
@@ -102,7 +103,7 @@ SSL mode：REQUIRED
 **實作位置**：`src/crawlers/`
 - `data_models.py` - 資料模型（`Event`, `Ticket`, `CrawlResult`）
 - `base_crawler.py` - 基礎爬蟲抽象類
-- `stage1_crawlers.py` - 5 個具體爬蟲實現
+- `stage1_crawlers.py` - 7 個具體爬蟲實現
 - `crawler_manager.py` - 爬蟲工廠與管理器
 - `README.md` - 詳細文件與範例
 
