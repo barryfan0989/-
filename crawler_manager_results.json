@@ -1,0 +1,595 @@
+{
+  "generated_at": "2026-06-01T08:20:35.105140",
+  "total_events": 19,
+  "crawlers": {
+    "KKTIX": {
+      "success": true,
+      "events_count": 0,
+      "error_message": null,
+      "timestamp": "2026-06-01T08:19:52.089951",
+      "events": []
+    },
+    "Indievox": {
+      "success": true,
+      "events_count": 8,
+      "error_message": null,
+      "timestamp": "2026-06-01T08:20:03.938930",
+      "events": [
+        {
+          "name": "X-Formosa 2026 彩虹音樂節",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv0404354",
+          "event_time": null,
+          "ticket_sale_time": null,
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "X-Formosa 2026 彩虹音樂節 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\nX-Formosa 2026 彩虹音樂節\nBuy Tickets\nEvent Info\nNotices\n🏳‍🌈 \nX-Formosa 2026 Rainbow Music Festival\n 🏳‍🌈\nThe most anticipated gay music festival of the year in Taiwan!\n(75% Global Travelers • 25% TAIWAN Spirits)\nOCT 30 – NOV 01\n3 NIGHT EVENTS + 1 TEA DANCE (WOOF)\nBLACK ARENA • WHITE EDEN • WOOF • PINK\n🔥 On Sale Now 🔥\n3-NIGHTS All PASS、WOOF\n🔥 Single Pass Sale Info 🔥\nJuly 10, 2026 (Fri) 21:00 (Taipei Time) Friday BLACK ARENA single pass\nJuly 11, 2026 (Sat) 11:00 (Taipei Time) Saturday WHITE EDEN / Sunday PINK single pass\nVENUE, TRANSPORTATION & ACCOMMODATION｜SCHEDULE\n｜PERFORMERS｜NOTICE\nOfficial webs\nite\n 🌈\nhttps://formosapride.com/en/2026/\n📍Schedule\nPlease refrain from clicking on any other advertisements on the iNDIEVOX ticketing website\nas they m",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:19:56.867876"
+        },
+        {
+          "name": "薄荷綠工廠【 Stay or Go Tour 】2026 全新發行巡迴 恆春特別場 w/ 立長",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv04003bf",
+          "event_time": null,
+          "ticket_sale_time": null,
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "薄荷綠工廠【 Stay or Go Tour 】2026 全新發行巡迴 恆春特別場 w/ 立長 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\n薄荷綠工廠【 Stay or Go Tour 】2026 全新發行巡迴 恆春特別場 w/ 立長\n立即購票\nEvent Info\nNotices\n薄荷綠工廠 2026 全新發行巡迴\n聽完新歌，看完MV，再來就是現場見啦！\n▁▂▃ Stay or Go Tour ▃▂▁\n🏀 台北場\n演出日期｜5/23 Sat. 20:00（19:30入場）\n演出地點｜Revolver \n票價資訊｜iNDIEVOX 單人預售 $700 / 雙人套票 $1300 / 現場票 $800\n🏀 高雄場\n演出日期｜5/29 Fri. 20:00（19:30入場）\n演出地點｜LIVE WAREHOUSE 小庫\n票價資訊｜iNDIEVOX 單人預售 $700 / 雙人套票 $1300 / 現場票 $800\n🏀 台中場\n演出日期｜5/31 Sun. 20:00（19:30入場）\n演出地點｜Legacy chako\n票價資訊｜iNDIEVOX 單人預售 $700 / 雙人套票 $1300 / 現場票 $800\n💥 恆春特別場 w/ 立長\n演出日期｜\n6/06 Sat. 15:30（15:00入場）\n演出地點｜恆春文化中心\n票價資訊｜iNDIEVOX 恆春限定票 $400 / 屏東藝遊卡 $375 / 現場票 $600\n📣 注意事項：\n※ 台北、台中及高雄場次為全場站位自由席；恆春特別場次為全場座位自由席。\n※ 雙人套票組數售完為止；所有票券預售完售，便不再開放現場售票。\n※ \n場內禁帶外食、違禁品、寵物（導盲犬除外）、嚴禁吸菸、嚼食檳榔。\n※This event was built and published by the event organizer.\n本場次",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:19:59.480433"
+        },
+        {
+          "name": "Wah SUB！009 激三; COLD DEW X OK!COOL X 賽璐璐",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv04071b5",
+          "event_time": "2026-06-26T20:00:00",
+          "ticket_sale_time": null,
+          "venue_name": "SUB",
+          "artists": [
+            "COLD DEW"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "Wah SUB！009 激三; COLD DEW X OK!COOL X 賽璐璐 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\nWah SUB！009 激三; COLD DEW X OK!COOL X 賽璐璐\n立即購票\nEvent Info\nNotices\n演出日期及時間：2026/06/26 (五) 20:00\n演出地點：SUB（台北市南港區市民大道八段99號 / 入口位於臺北流行音樂中心南基地戶外廣場）\n演出者：COLD DEW、\nOK!COOL\n、賽璐璐\n票價：預售票\n800\n元\n/\n身障票\n400\n元（線上訂購）\n/\n現場票\n1000\n元\n售票時間：2026/05/27（三）12:00 開始販售\nCOLD DEW、賽璐璐、OK!COOL\n這三支樂團都很好聽，除此之外，它們都存在一個瘋狂的吉他手，並且三位都狂得很不一樣，找他們三個樂團共演的目的只有一個，我要看到吉他手們在指板上的狂噴，直到血流成河！！！！！\n本場次購票方式為：「網站購票、信用卡付款、ibon取票」及「ibon購票、付款、取票」兩種，相關注意事項請詳閱【常見問題】的【iNDIEVOX 網站購票說明】及【ibon機台購票說明】。\n一般預售票開賣時間：\n2026/05/27（星期三）12：00\n。〈開演前一日即停止預售，開演當天請至現場購買現場票種，現場售票僅接受現金付款〉\n本次身心障礙票券採線上訂購，於\n 2026/05/27（星期三）12：00\n 起開放線上訂購。注意事項如下：\n購票前請先於iNDIEVOX註冊會員，並最晚於購票前一日完成身心障礙者身分認證，避免因認證程序未及時完成影響購票。（可至【會員資料】中【身心障礙者身分認證】進行操作)。\n身心障礙票券僅限電腦配位。\n每位身心障礙者每場次限購身心障礙優惠票一張及陪同票一張。入場時須由證明持有人與陪同者同時入場，並請攜帶身心障礙證明供查驗。",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:20:00.153159"
+        },
+        {
+          "name": "夕陽武士Sunset Samurai 萬事如意演唱會",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv0401648",
+          "event_time": "2026-06-06T19:00:00",
+          "ticket_sale_time": null,
+          "venue_name": "LIVE WAREHOUSE 大庫",
+          "artists": [
+            "夕陽武士"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "夕陽武士Sunset Samurai 萬事如意演唱會 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\n夕陽武士Sunset Samurai 萬事如意演唱會\n立即購票\nEvent Info\nNotices\n演出日期及時間：2026/06/06(六) 19:00\n演出地點：LIVE WAREHOUSE 大庫\n演出者：夕陽武士\nSunset Samurai\n票價：單人早鳥票\n666\n元（限量）／單人預售票\n1,000\n元／四人武士票\n3,200\n元（限量）｜現場票\n1,200\n元\n【 夕陽武士《萬事如意》演唱會 】\n面對人生的迷惘、失敗，都是為了爭一口氣，生活真的太不容易！\n我們終於明白平凡 － 就是人生中最棒的事\n夕陽武士2026全新專場，帶著萬事如意的信念，需要勇氣，我來予你\n閣一擺大聲喊\n毋免驚！萬事如意\n讓我們在6月6號，祝福你 萬事如意\n｜Nobody, somebody, all the best.｜\n– 04/20（一）中午12:00正式開賣 –\n※This event was built and published by the event organizer.\n⦿ 請依循現場工作人員指引入場。\n⦿ 場地禁菸、禁帶飲料及外食。\n⦿ 未經許可，請勿於演出中錄音、錄影或拍照。\n⦿ \n本場次入場依表演當日現場排隊順序入場。一人一票，憑票入場。\n⦿ 預售一經完售即不開放現場售票。\n⦿ 如需辦理退票請先閱讀【常見問題】的【退票辦法說明】並請留意受理退票的期限。\n⦿ 活動開演前10日起（不含活動當日）即不再受理退票。本活動的退票辦理截止期限為2026/05/27（三），逾期恕不受理。\n※This event was built and published by the event organizer.\n※本平台所售出之活動，除非特別標示，皆無提供履約保障機制。\n※Pl",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:20:00.778256"
+        },
+        {
+          "name": "6.7(日) DISORDER LIVE #15",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv0404902",
+          "event_time": null,
+          "ticket_sale_time": null,
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "ADV400／DOOR500",
+              "price": 400500,
+              "quantity": null
+            }
+          ],
+          "description": "6.7(日) DISORDER LIVE #15 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\n6.7(日) DISORDER LIVE #15\n立即購票\nEvent Info\nNotices\nDISORDER LIVE #15\n以金屬與抒情交織迷惘青春；\n用極簡噪音與龐克怒火轟炸現場；\n以細膩滲透感編織情緒聲響。\n演出陣容：\n螺紋Rovens\nLucian 鹿晞恩\ncowman\n日期：6.7(sun)\n時間：20:00進場／20:30開演\n票價：ADV400／DOOR500\n購票：iNDIEVOX、全國7-11 ibon\n※This event was built and published by the event organizer.\n本場館全面禁帶外食\n※This event was built and published by the event organizer.\n※本平台所售出之活動，除非特別標示，皆無提供履約保障機制。\n※Please read and agree to all the terms and conditions before placing the order. Purchasing or refunding is treated as fully agreeing to all the rules above.\nExternal advertisements are not affiliated with this site; exercise caution when clicking on them.\nExternal advertisements are not affiliated with this site; exercise caution when clicking on them.\n| \n關於iNDIEVOX\n",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:20:01.432858"
+        },
+        {
+          "name": "22.5【雨季之後 After Rain】北中南小巡迴 台北場",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv0397357",
+          "event_time": null,
+          "ticket_sale_time": null,
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "22.5【雨季之後 After Rain】北中南小巡迴 台北場 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\n22.5【雨季之後 After Rain】北中南小巡迴 台北場\n立即購票\nEvent Info\nNotices\n22.5【雨季之後 After Rain】北中南小巡迴\n讓故事沉澱，帶著記憶出發，\n再回頭望去，才發現過去變成了成長的線索。\n雨季之後，並不一定只有放晴，也可能象徵著新的開始。\n雨停了，人們走出屋簷，踩過水窪，而我們還在這裡，等著與你們一起，見證雨季之後的 22.5。\n☂︎ ☂︎ ☂︎　演出資訊　☂︎ ☂︎ ☂︎\n5/09（六）台中場\n地點｜The Pillars 柱\n（\n台中市中區篤行路13號3樓\n）\n5/16（六）高雄場\n地點｜LIVE WAREHOUSE 小庫（駁二藝術特區大義倉庫群 C10）\n6/07（日）台北場\n地點｜野地方 Wild Lab（台北市中正區杭州南路一段147號B1）\n時間｜19:00進場、19:30開演\n票價｜預售票$650、現場票$750\n啟售｜3/21（六）中午12:00\n※This event was built and published by the event organizer.\n本場次購票方式為：「網站購票、信用卡付款、ibon取票」及「ibon購票、付款、取票」兩種，相關注意事項請詳閱【常見問題】的【iNDIEVOX 網站購票說明】及【ibon機台購票說明】。\n刷卡送出後，不論銀行端顯示訊息為何，請務必回到【訂單查詢】頁面，確認其【訂單狀態】，刷卡交易成功與否，依【訂單查詢】顯示為主。\n一般預售票開賣時間：2026/03/21（星期六）12：00。開演前一日即停止預售，開演當天請至現場購買現場票種，現場售票僅接受現金付款。預售一經完售即不開放現場售票。\n購票前請確認您欲購買的場次及活動，本活動恕不提供換",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:20:02.083776"
+        },
+        {
+          "name": "Legacy Presents【2026鐵漢柔情】： 馬念先 櫻桃可樂的滋味－台北場",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv0403445",
+          "event_time": "2026-06-06T20:00:00",
+          "ticket_sale_time": null,
+          "venue_name": "Legacy TERA",
+          "artists": [
+            "馬念先"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "預售票",
+              "price": 1350,
+              "quantity": null
+            },
+            {
+              "ticket_type": "身障票",
+              "price": 675,
+              "quantity": null
+            },
+            {
+              "ticket_type": "現場票",
+              "price": 1600,
+              "quantity": null
+            }
+          ],
+          "description": "Legacy Presents【2026鐵漢柔情】： 馬念先 櫻桃可樂的滋味－台北場 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\nLegacy Presents【2026鐵漢柔情】： 馬念先 櫻桃可樂的滋味－台北場\n立即購票\nEvent Info\nNotices\n演出日期及時間：2026/06/06 (六) 20:00\n演出地點：Legacy TERA（台北市南港區市民大道八段99號）\n演出者：馬念先\n票價：預售票 1350 元 /身障票 675 元（線上訂購）/ 現場票 1600元\n售票時間：2026/05/03（日）12:00 開始販售\n️\n沒有要說教，也沒有要證明什麼\n不刻意討好年輕、也不感嘆變老，而是用一種自在的態度，陪伴著每一個在城市裡努力生活的人\n櫻桃可樂是我最喜歡的一種飲料\n每次喝都會回想到第一次喝到的感受\n希望帶給聽眾一種熟悉卻依然保持新鮮的感動\n本場次購票方式為：「網站購票、信用卡付款、\nibon\n取票」及「\nibon\n購票、付款、取票」兩種，相關注意事項請詳閱【常見問題】的【\niNDIEVOX \n網站購票說明】及【\nibon\n機台購票說明】。\n一般預售票開賣時間：2026/05/03（星期日）\n12\n：\n00\n。〈開演前一日即停止預售，開演當天請至現場購買現場票種，現場售票僅接受現金付款〉\n本次身心障礙票券採線上訂購，於 2026/0\n5/03（星期日\n）\n12\n：\n00\n 起開放線上訂購。注意事項如下：\n購票前請先於\niNDIEVOX\n註冊會員，並最晚於購票前一日完成身心障礙者身分認證，避免因認證程序未及時完成影響購票。（可至【會員資料】中【身心障礙者身分認證】進行操作\n)\n。\n身心障礙票券僅限電腦配位。\n每位身心障礙者每場次限購身心障礙優惠票一張及陪同票一張。入場時須由證明持有人與陪同者同時入場，並請攜帶身心障礙證明供查驗。新版證明需於「",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:20:02.700780"
+        },
+        {
+          "name": "勁曲國語作業簿｜勁曲台中室",
+          "source_site": "Indievox",
+          "event_url": "https://www.indievox.com/activity/detail/26_iv0406988",
+          "event_time": null,
+          "ticket_sale_time": null,
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "勁曲國語作業簿｜勁曲台中室 | iNDIEVOX\n\r\n            JavaScript is deactivated on your browser, please re-activate your browser's JavaScript.        \nEN\n繁\n Log in / Register                                    \nEvents\nEvent Tours\nVenues\nNews\nFAQ\nMy Tickets\n勁曲國語作業簿｜勁曲台中室\n立即購票\nEvent Info\nNotices\n國語作業簿 ORIGINAL｜第二站準備開啟！\n招喚魔法陣 IN 台中，重返中華夜市 #快樂谷大舞場！\n全舞曲環境領域預告必中效果全開所以直接暖機待命中🔥\n九月十九號，必須來勁的那種勁曲專屬 Coming 🔜\n-\n『 #勁曲國語作業簿 / 勁曲台中室 』\n活動日期｜2026/09/19（六）\n進場時間｜18:45 開放入場\n活動時間｜19:00-23:00\n集合地點｜快樂谷大舞場(臺中市中區中華里中華路一段121號B2)\n主辦單位｜國語作業簿、愛與和平娛樂工作室\n🔥 港都情人站一結束立即預約 🔥\n 台中市區預約服務 🎫 一般預售｜單人票 NT$1000\n｜更多活動資訊、卡司公布 請 FOLLOW\n官方 IG\n｜主辦單位保有隨時修改及終止本活動之權利\n活動注意事項\n本場次購票方式為：「網站購票、信用卡付款、電子票券」，相關注意事項請詳閱【常見問題】的【iNDIEVOX 網站購票說明】。\n本場次單筆訂單限購\n4\n張。\n取票方式為【電子票券】，相關注意事項請詳閱【常見問題】的【電子票券QRCODE取票說明】。\n本活動為：全區搖滾站席。\n開演時間為\n 19\n：00\n，將於\n18：45\n開放入場\n。\n一般預售票開賣時間：2026/05/30（六）晚上22：00。\n電子票券每張酌收10元手續費\n，付款完成後，可至【訂單查詢】點選【電子票券QRCODE】查看。\n刷卡失敗請重新購票。\n本檔活動可使用分票功能。欲分票之訂單可從【訂單查詢】→【我要分票】，已分票/接收之票券可於【分票夾】查詢。\n一人一票入場，票券遺失，須重新購票，恕不補發。\n購票前請確認您欲購買的場次及活動，本活動恕不提供換票，如需換票等同於退票。\n提醒您！電子票券QR",
+          "image_url": "https://www.indievox.com/themes/iNDIEVOX/images/logo.png",
+          "scraped_at": "2026-06-01T08:20:03.937675"
+        }
+      ]
+    },
+    "ticket.com.tw": {
+      "success": true,
+      "events_count": 0,
+      "error_message": null,
+      "timestamp": "2026-06-01T08:20:04.306546",
+      "events": []
+    },
+    "ibon": {
+      "success": true,
+      "events_count": 11,
+      "error_message": null,
+      "timestamp": "2026-06-01T08:20:32.471583",
+      "events": [
+        {
+          "name": "孫淑媚《MAY好三十》演唱會－台北站",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39470",
+          "event_time": "2026-06-06T00:00:00",
+          "ticket_sale_time": "2026-05-22T12:00:00",
+          "venue_name": "未知場館",
+          "artists": [
+            "孫淑媚"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "$2,500/$1,500身障席",
+              "price": 2400,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong>【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff99;\">ibon售票網會員登入調整</span></span>】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a></strong></span></span></p>\r\n\r\n<hr />\r\n<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\">【<span style=\"color:#ff0000;\"><strong><span style=\"background-color:#ffff99;\">加值優惠</span></strong></span>】<img alt=\"\" src=\"https://dsystemstorage2.blob.core.windows.net/image/ADImage/Zo0uL23YdQ5gUd5AiLw26j96iotOH3.pdf\" /><img alt=\"\" src=\"https://dsystemstorage2.blob.core.windows.net/image/ADImage/jOwnT1EtENwkoNT00pRCjAh1X57Ula.pdf\" /><img alt=\"\" src=\"https://dsystemstorage2.blob.core.windows.net/image/ADImage/DgR7aUs1nrH4vtunf7YY1Hb2w21T6R.pdf\" /><br />\r\n訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.c",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_hqMI2cbEcUqI9xY4tAqUBLbei1FUc9.jpg",
+          "scraped_at": "2026-06-01T08:20:28.521322"
+        },
+        {
+          "name": "《女神異聞錄 5》Persona 5 Special Big Band Concert",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39490",
+          "event_time": "2026-06-26T00:00:00",
+          "ticket_sale_time": "2026-03-13T12:00:00",
+          "venue_name": "Legacy TERA",
+          "artists": [
+            "女神異聞錄5",
+            "女神異聞錄",
+            "Persona5",
+            "Pesrona",
+            "Persona5 Special Big Band Concert"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "VENibon機台及ibon售票",
+              "price": 3999,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong>【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff00;\">ibon售票網會員登入調整</span></span>】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a>&nbsp;</strong></span></span></p>\r\n\r\n<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\">【<span style=\"color:#ff0000;\"><strong><span style=\"background-color:#ffff00;\">加值優惠</span></strong></span>】<br />\r\n<strong>訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票劵加購高鐵說明</a><br />\r\n<span style=\"color:#ff0000;\">2026/05/29(五)起可加購高鐵車票並享折扣優惠</span>，可購買去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為<span style=\"color:#ff0000;\">南港站</span>。</strong></span></span></p>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><span style=\"color:#cc0000;\"><strong><span style=\"font-size:22px;\"><span sty",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_qHyMMMboNaFCTuyW9OQAgrWpqKFa0c.jpg",
+          "scraped_at": "2026-06-01T08:20:28.712495"
+        },
+        {
+          "name": "《LA LA LAND IN CONCERT》樂來越愛你 電影交響音樂會",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39529",
+          "event_time": "2026-08-01T00:00:00",
+          "ticket_sale_time": "2026-04-17T11:56:00",
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "一般票",
+              "price": 4600,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般票",
+              "price": 4200,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般票",
+              "price": 3600,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般票",
+              "price": 3200,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般票",
+              "price": 2800,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般票",
+              "price": 2200,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般票",
+              "price": 1600,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong>【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff00;\">ibon售票網會員登入調整</span></span>】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a>&nbsp;</strong></span></span><br />\r\n<br />\r\n<span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\">【<span style=\"color:#ff0000;\"><strong><span style=\"background-color:#ffff00;\">加值優惠</span></strong></span>】<br />\r\n<strong>訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票劵加購高鐵說明</a><br />\r\n<span style=\"color:#ff0000;\">2026/07/03(五)起可加購高鐵車票並享折扣優惠</span>，可購買去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為<span style=\"color:#ff0000;\">左營站</span>。</strong></span></span><br />\r\n<br />\r\n<span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong><span style=\"background-color:#",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_VT0KetgcgLtE3ffdbdYke0AYn6QrIW.jpg",
+          "scraped_at": "2026-06-01T08:20:28.857339"
+        },
+        {
+          "name": "EXILE AKIRA 20th ANNIVERSARY SPECIAL LIVE TOUR “URBAN SAVAGE” 台北公演",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39545",
+          "event_time": "2026-08-08T00:00:00",
+          "ticket_sale_time": "2026-04-24T18:00:00",
+          "venue_name": "未知場館",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "■票",
+              "price": 2680,
+              "quantity": null
+            },
+            {
+              "ticket_type": "、身障席",
+              "price": 1340,
+              "quantity": null
+            },
+            {
+              "ticket_type": "59(台灣時間TST)前購買本演唱會票",
+              "price": 2000,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><strong><span style=\"background-color:#ffff00;\">【ibon售票網會員登入調整】</span><br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a>&nbsp;</strong><br />\r\n<br />\r\n<span style=\"background-color:#ffff00;\">【</span><strong><span style=\"background-color:#ffff00;\">加值優惠</span></strong><span style=\"background-color:#ffff00;\">】</span><br />\r\n<strong>於ibon訂購此活動票券者，自2026/07/10起即可加購高鐵車票並享折扣優惠。[限購去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為台北站。]相關內容請參考&nbsp;<a href=\"http://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票券加購高鐵說明</a></strong></span></p>\r\n\r\n<hr />\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><span style=\"font-size:24px;\"><strong>EXILE AKIRA 20th ANNIVERSARY SPECIAL LIVE TOUR</strong></span></p>\r\n\r\n<p style=\"text-align: center;\"><span style=\"font-size:24px;\"><strong>&ldquo;URBAN SAVAGE&rdquo; 台北公演</strong></span></p>\r\n\r\n<p",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_k3lML1hE304HC63Lh8AmNrnD5rywiK.jpg",
+          "scraped_at": "2026-06-01T08:20:29.044056"
+        },
+        {
+          "name": "2026 YANG YOSEOP SOLO CONCERT ＜Fade In＞ IN TAIPEI",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39549",
+          "event_time": "2026-07-25T00:00:00",
+          "ticket_sale_time": "2026-04-26T15:00:00",
+          "venue_name": "台大綜合體育館一樓",
+          "artists": [
+            "梁耀燮"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "00起，開放取票",
+              "price": 5800,
+              "quantity": null
+            },
+            {
+              "ticket_type": "/B區$4,800/C區",
+              "price": 3800,
+              "quantity": null
+            },
+            {
+              "ticket_type": "身心障礙席",
+              "price": 2900,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong>【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff99;\">ibon售票網會員登入調整</span></span>】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a>&nbsp;</strong></span></span></p>\r\n\r\n<p><br />\r\n<span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong>【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff99;\">加值優惠</span></span>】 訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票劵加購高鐵說明</a><br />\r\n<span style=\"color:#ff0000;\">2026/06/26(五)</span>起可加購高鐵車票並享折扣優惠，可購買去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為<span style=\"color:#ff0000;\">台北站</span>。</strong></span></span></p>\r\n\r\n<hr />\r\n<p><strong><span style=\"font-size:20px;\"><span style=\"font-family:微軟正黑體;\">2026 YANG YOSEOP SOLO CONCERT ＜Fade In＞ IN TAIPEI",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_13oJyixb7UEkFNu6JFeQWsiKlsqQCq.jpg",
+          "scraped_at": "2026-06-01T08:20:29.209375"
+        },
+        {
+          "name": "2026 蔡琴 不要告別 巡迴演唱會〔台北返場〕",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39559",
+          "event_time": "2026-09-12T00:00:00",
+          "ticket_sale_time": "2026-04-26T11:00:00",
+          "venue_name": "台北國際會議中心",
+          "artists": [
+            "蔡琴"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "待定",
+              "price": 0,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong>【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff00;\">ibon售票網會員登入調整</span></span>】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a>&nbsp;</strong></span></span><br />\r\n<br />\r\n<span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\">【<span style=\"color:#ff0000;\"><strong><span style=\"background-color:#ffff00;\">加值優惠</span></strong></span>】<br />\r\n<strong>訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票劵加購高鐵說明</a><br />\r\n<span style=\"color:#ff0000;\">2026/08/14(五)起可加購高鐵車票並享折扣優惠</span>，可購買去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為<span style=\"color:#ff0000;\">台北站</span>。</strong></span></span><br />\r\n<br />\r\n<span style=\"font-size:16px;\"><span style=\"font-family:微軟正黑體;\"><strong><span style=\"background-color:#",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_tld4kxZysdFIZWkGfQwBsAbXQXOZxx.jpg",
+          "scraped_at": "2026-06-01T08:20:29.368801"
+        },
+        {
+          "name": "2026 7–ELEVEN 高雄啤酒音樂節",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39590",
+          "event_time": "2026-07-03T00:00:00",
+          "ticket_sale_time": "2026-05-14T12:00:00",
+          "venue_name": "高雄夢時代正對面廣場",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "一般區",
+              "price": 3999,
+              "quantity": null
+            },
+            {
+              "ticket_type": "現場票",
+              "price": 4499,
+              "quantity": null
+            },
+            {
+              "ticket_type": "搖滾座位A／B區（坐席",
+              "price": 2999,
+              "quantity": null
+            },
+            {
+              "ticket_type": "現場票",
+              "price": 3499,
+              "quantity": null
+            },
+            {
+              "ticket_type": "搖滾座位C／D區（坐席",
+              "price": 1999,
+              "quantity": null
+            },
+            {
+              "ticket_type": "現場票",
+              "price": 2499,
+              "quantity": null
+            },
+            {
+              "ticket_type": "搖滾漫遊區（站席",
+              "price": 1499,
+              "quantity": null
+            },
+            {
+              "ticket_type": "一般區（站席",
+              "price": 999,
+              "quantity": null
+            },
+            {
+              "ticket_type": "愛心A／B區",
+              "price": 749,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><strong><span style=\"color:#ff0000;\">【ibon售票網會員登入調整】</span><br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a></strong></span></p>\r\n\r\n<hr />\r\n<p><span style=\"font-size:16px;\"><strong><span style=\"background-color:#ffff00;\">加值優惠</span><br />\r\n於ibon訂購此活動票券者，自2026/6/5起即可加購高鐵車票並享折扣優惠。[限購去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為左營站。]相關內容請參考&nbsp;<a href=\"http://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票券加購高鐵說明</a></strong></span><br />\r\n<br />\r\n<span style=\"font-size:16px;\"><strong><span style=\"background-color:#ffff00;\">本節目適用成年禮金（文化幣）購票；</span>使用成年禮金購票者，請詳見《<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2538\" target=\"_blank\">成年禮金使用注意事項</a>》<br />\r\n特別注意：文化禮金全額折抵之訂單，需於交易後兩小時內至ibon機台取票，逾期未取票視為訂單取消。文化禮金不會扣款。</strong></span></p>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><br />\r\n<strong><span style=\"color:#3498",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_JyNKgZjEcLZltuBsRmM4CXiMiRF7sA.jpg",
+          "scraped_at": "2026-06-01T08:20:29.643607"
+        },
+        {
+          "name": "2026東海岸大地藝術節月光．海音樂會－澎湃的海",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39602",
+          "event_time": "2026-08-29T00:00:00",
+          "ticket_sale_time": "2026-05-15T12:00:00",
+          "venue_name": "台東縣成功鎮信義里新村路25號",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "全票$1,500元／愛心票",
+              "price": 900,
+              "quantity": null
+            },
+            {
+              "ticket_type": "臺東藝術節桑布伊－無界的疆域專場雙日聯票",
+              "price": 2040,
+              "quantity": null
+            },
+            {
+              "ticket_type": "月光．海音樂會X江賢二藝術園區",
+              "price": 1600,
+              "quantity": null
+            }
+          ],
+          "description": "<p><strong><span style=\"font-size:16px;\">【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff00;\">ibon售票網會員登入調整</span></span>】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a></span></strong></p>\r\n\r\n<p><strong><span style=\"font-size:16px;\">【<span style=\"color:#ff0000;\"><span style=\"background-color:#ffff00;\">加值優惠</span></span>】<img alt=\"\" src=\"https://dsystemstorage2.blob.core.windows.net/image/ADImage/Zo0uL23YdQ5gUd5AiLw26j96iotOH3.pdf\" /><img alt=\"\" src=\"https://dsystemstorage2.blob.core.windows.net/image/ADImage/jOwnT1EtENwkoNT00pRCjAh1X57Ula.pdf\" /><img alt=\"\" src=\"https://dsystemstorage2.blob.core.windows.net/image/ADImage/DgR7aUs1nrH4vtunf7YY1Hb2w21T6R.pdf\" /><br />\r\n訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票劵加購高鐵說明</a><br />\r\n購票後自<span style=\"color:#ff0000;\">7/31",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_TS68XiS2yUO9eBrc6itYagO3plxTut.jpg",
+          "scraped_at": "2026-06-01T08:20:29.785560"
+        },
+        {
+          "name": "LUCY 9TH CONCERT ＜ISLAND＞ IN TAIPEI",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39605",
+          "event_time": "2026-06-20T00:00:00",
+          "ticket_sale_time": "2026-05-09T13:00:00",
+          "venue_name": "台大綜合體育館 1F",
+          "artists": [
+            "루시",
+            "LUCY",
+            "ISLAND"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "VIP區",
+              "price": 4880,
+              "quantity": null
+            },
+            {
+              "ticket_type": "A區",
+              "price": 4280,
+              "quantity": null
+            },
+            {
+              "ticket_type": "B區",
+              "price": 3680,
+              "quantity": null
+            },
+            {
+              "ticket_type": "身障席",
+              "price": 2440,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><strong>【ibon售票網會員登入調整】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a></strong></span></p>\r\n\r\n<hr />\r\n<p><span style=\"font-size:16px;\"><strong>【加值優惠】<br />\r\n於ibon訂購此活動票券者，購票後自 5/21 起即可加購高鐵車票並享折扣優惠。[限購去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為台北站。]相關內容請參考&nbsp;<a href=\"http://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票券加購高鐵說明</a></strong></span></p>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><span style=\"font-size:36px;\"><span style=\"color:#cc9900;\"><strong>LUCY 9TH CONCERT &lt;ISLAND&gt; IN TAIPEI</strong></span></span></p>\r\n\r\n<p><br />\r\n<span style=\"font-family:微軟正黑體;\"><span style=\"font-size:16px;\"><strong>演出日期： 2026 年 6 月 20 日 (六)&nbsp;18:00 (當地時間) (※ 實際演出時間請以現場公告為準。)<br />\r\n演出地點：台大綜合體育館 1F<br />\r\n演出場地地址：臺北市大安區羅斯福路四段1號<br />\r\n售票時間：2026 年 5 月 9 日 (六) 13:00 (當地時間)<br />\r\n售票系統：全台7-ELEVEN ibon 機台及 ibon 網站<br",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_i5hdRivQcNniekHRdRNKVgvkcF7VIc.jpg",
+          "scraped_at": "2026-06-01T08:20:29.921787"
+        },
+        {
+          "name": "2026 T CONCERT《IDOL MEET FEST 偶像相遇祭》",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39607",
+          "event_time": "2026-08-01T00:00:00",
+          "ticket_sale_time": "2026-05-15T12:00:00",
+          "venue_name": "台北流行音樂中心 表演廳&戶外廣場",
+          "artists": [],
+          "tickets": [
+            {
+              "ticket_type": "１樓搖滾區",
+              "price": 4580,
+              "quantity": null
+            },
+            {
+              "ticket_type": "單日票",
+              "price": 2580,
+              "quantity": null
+            },
+            {
+              "ticket_type": "１樓搖滾區",
+              "price": 4880,
+              "quantity": null
+            },
+            {
+              "ticket_type": "單日票",
+              "price": 2880,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><strong><span style=\"background-color:#ffff00;\">【</span><span style=\"color:#ff0000;\"><span style=\"background-color:#ffff00;\">ibon售票網會員登入調整</span></span><span style=\"background-color:#ffff00;\">】</span><br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a>&nbsp;</strong><br />\r\n<br />\r\n<span style=\"background-color:#ffff00;\">【</span><span style=\"color:#ff0000;\"><strong><span style=\"background-color:#ffff00;\">加值優惠</span></strong></span><span style=\"background-color:#ffff00;\">】</span><br />\r\n<strong>訂購此活動票券可加購高鐵享折扣優惠，相關內容請參考&nbsp;<a href=\"https://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票劵加購高鐵說明</a><br />\r\n2026/07/03(五)起可加購高鐵車票並享折扣優惠，可購買去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為<span style=\"color:#ff0000;\">南港站</span>。</strong><br />\r\n<br />\r\n<strong><span style=\"background-color:#ffff99;\">本節目適用成年禮金（文化幣）購票</span>：使用",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_kVuvXyjh3i1CfRbxcSuKtyfnVOaxVg.jpg",
+          "scraped_at": "2026-06-01T08:20:30.045094"
+        },
+        {
+          "name": "COSMOS 1st music concert in Taipei",
+          "source_site": "ibon",
+          "event_url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39619",
+          "event_time": "2026-07-19T00:00:00",
+          "ticket_sale_time": "2026-05-17T12:00:00",
+          "venue_name": "VENUE西門WESTAR",
+          "artists": [
+            "Cosmos1stmusicconcertinTP",
+            "Cosmos",
+            "亞森"
+          ],
+          "tickets": [
+            {
+              "ticket_type": "A區",
+              "price": 6200,
+              "quantity": null
+            },
+            {
+              "ticket_type": "B區",
+              "price": 5000,
+              "quantity": null
+            },
+            {
+              "ticket_type": "身障席",
+              "price": 2500,
+              "quantity": null
+            },
+            {
+              "ticket_type": "套票",
+              "price": 7300,
+              "quantity": null
+            },
+            {
+              "ticket_type": "（含價值$5,000座位票",
+              "price": 2300,
+              "quantity": null
+            },
+            {
+              "ticket_type": "（含價值$5,000座位票",
+              "price": 1200,
+              "quantity": null
+            }
+          ],
+          "description": "<p><span style=\"font-size:16px;\"><strong>【ibon售票網會員登入調整】<br />\r\n為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />\r\n為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />\r\n了解更多<a href=\"https://www.ibon.com.tw/event/openpoint/event26Q1.html\" target=\"_blank\">會員帳號連結說明</a></strong></span></p>\r\n\r\n<hr />\r\n<p><span style=\"font-size:16px;\"><strong><span style=\"background-color:#ffff00;\">【加值優惠】</span><br />\r\n於ibon訂購此活動票券者，購票後自 6/20 起即可加購高鐵車票並享折扣優惠。[限購去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為台北站。]相關內容請參考&nbsp;<a href=\"http://ticket.ibon.com.tw/NewsInfo/Details/2489\">ibon票券加購高鐵說明</a></strong></span></p>\r\n\r\n<hr />\r\n<p style=\"text-align: center;\"><span style=\"font-size:36px;\"><span style=\"color:#cc9900;\"><strong>COSMOS 1st music concert in Taipei</strong></span></span></p>\r\n\r\n<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><strong>當燈光亮起的瞬間<br />\r\n屬於 COSMOS 的宇宙，正式啟動。<br />\r\n音樂響起，心跳瞬間加速，<br />\r\n每一道目光、每一次尖叫、每一個節奏，都將化作今晚最耀眼的星光。<br />\r\n女孩們的登場，<br />\r\n不是為了短暫閃耀，<br />\r\n而是要讓全世界都看見&mdash;&mdash;<br />\r\n屬於 COSMOS",
+          "image_url": "https://ticket.ibon.com.tw/image/ActivityImage/ActivityImage_C5vR1fFrX8lLZWkVbkojt7hqFsulmW.jpg",
+          "scraped_at": "2026-06-01T08:20:30.224604"
+        }
+      ]
+    },
+    "Kham": {
+      "success": true,
+      "events_count": 0,
+      "error_message": null,
+      "timestamp": "2026-06-01T08:20:35.104764",
+      "events": []
+    }
+  }
+}

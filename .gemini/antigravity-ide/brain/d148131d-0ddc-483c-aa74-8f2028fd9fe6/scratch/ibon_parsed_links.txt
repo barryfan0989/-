@@ -1,0 +1,208 @@
+Total links: 204
+
+[0] Href: javascript:void(0), Text: 訂單查詢
+[1] Href: javascript:void(0), Text: 退票查詢
+[2] Href: javascript:void(0), Text: 辦活動
+[3] Href: javascript:void(0), Text: 訂閱電子報
+[4] Href: javascript:void(0), Text: 合作提案
+[5] Href: /, Text: ibon 售票系統
+[6] Href: , Text: 訂閱電子報
+[7] Href: https://tour.ibon.com.tw/login/merchant-login-check, Text: 辦活動
+[8] Href: , Text: 快速登入
+[9] Href: http://www.ibon.com.tw/0000/sponsor.aspx, Text: 合作提案
+[10] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2067, Text: 退票查詢
+[11] Href: , Text: 訂單查詢
+[12] Href: javascript:void(0), Text: 訂房
+[13] Href: /Index/Traffic, Text: 高鐵聯票
+[14] Href: https://tour.ibon.com.tw/home/drama, Text: 旅遊
+[15] Href: https://tour.ibon.com.tw/home/exhibition, Text: 展覽
+[16] Href: /Index/Sport, Text: 運動
+[17] Href: /Index/entertainment, Text: 娛樂
+[18] Href: #ticket, Text: 找票券
+[19] Href: , Text: 全部
+[20] Href: , Text: 北部
+[21] Href: , Text: 台北
+[22] Href: , Text: 基隆
+[23] Href: , Text: 新北
+[24] Href: , Text: 宜蘭
+[25] Href: , Text: 新竹
+[26] Href: , Text: 桃園
+[27] Href: , Text: 中部
+[28] Href: , Text: 苗栗
+[29] Href: , Text: 台中
+[30] Href: , Text: 彰化
+[31] Href: , Text: 南投
+[32] Href: , Text: 雲林
+[33] Href: , Text: 南部
+[34] Href: , Text: 嘉義
+[35] Href: , Text: 台南
+[36] Href: , Text: 高雄
+[37] Href: , Text: 屏東
+[38] Href: , Text: 東部
+[39] Href: , Text: 台東
+[40] Href: , Text: 花蓮
+[41] Href: , Text: 外島
+[42] Href: , Text: 澎湖
+[43] Href: , Text: 金門
+[44] Href: , Text: 連江
+[45] Href: javascript:void(), Text: 《名偵探柯南》TV動畫播放30週年紀念展
+[46] Href: javascript:void(), Text: Girl Rules FM
+[47] Href: javascript:void(), Text: 2025－2026 桃園璞園領航猿主場
+[48] Href: javascript:void(), Text: 斯巴達競賽新北場：中國信託指定聯名卡優先
+[49] Href: javascript:void(), Text: 孫淑媚《MAY好三十》演唱會－台北站
+[50] Href: javascript:void(), Text: 東京流行新星＋名古屋夢幻流行之星聯合演出
+[51] Href: javascript:void(), Text: 2026角頭GATAO唱演會—情義到高雄
+[52] Href: javascript:void(), Text: 2026 偶像相遇祭
+[53] Href: javascript:void(), Text: ACON 2026 IN TAIPEI
+[54] Href: javascript:void(), Text: 《名偵探柯南》TV動畫播放30週年紀念展
+[55] Href: javascript:void(), Text: Girl Rules FM
+[56] Href: javascript:void(), Text: 2025－2026 桃園璞園領航猿主場
+[57] Href: javascript:void(), Text: 斯巴達競賽新北場：中國信託指定聯名卡優先
+[58] Href: javascript:void(), Text: 孫淑媚《MAY好三十》演唱會－台北站
+[59] Href: javascript:void(), Text: 東京流行新星＋名古屋夢幻流行之星聯合演出
+[60] Href: javascript:void(), Text: 2026角頭GATAO唱演會—情義到高雄
+[61] Href: javascript:void(), Text: 2026 偶像相遇祭
+[62] Href: javascript:void(), Text: ACON 2026 IN TAIPEI
+[63] Href: javascript:void(), Text: 《名偵探柯南》TV動畫播放30週年紀念展
+[64] Href: https://ticket.ibon.com.tw/NewsInfo/NewsList?CategoryCode=homepage, Text: 最新消息公告
+[65] Href: javascript:void(0), Text: 運動幣
+[66] Href: javascript:void(0), Text: 成年禮金(文化幣)
+[67] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2673, Text: AFTEE新支付上線慶，購票最高領$350！
+[68] Href: https://www.ibon.com.tw/event/qiosk/powerticket2026.html, Text: ibon行動電源
+[69] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2673, Text: 📣 新支付上線慶
+[70] Href: https://tour.ibon.com.tw/event/69e1e9c84eebcd452802dc93/, Text: 柯南30周年紀念展
+[71] Href: https://tour.ibon.com.tw/event/69e1e9c84eebcd452802dc93/?isInternalTester=true, Text: 
+[72] Href: https://ibontw.com/bluefintunafest, Text: 
+[73] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2673, Text: 
+[74] Href: https://www.ibon.com.tw/event/qiosk/powerticket2026.html, Text: 
+[75] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2671, Text: 
+[76] Href: https://ticket.ibon.com.tw/Home/MoreResult?inATAPWebType=traffic&inATAPID=216, Text: 
+[77] Href: https://tour.ibon.com.tw/event/69e1e9c84eebcd452802dc93/?isInternalTester=true, Text: 
+[78] Href: https://ibontw.com/bluefintunafest, Text: 
+[79] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2673, Text: 
+[80] Href: https://www.ibon.com.tw/event/qiosk/powerticket2026.html, Text: 
+[81] Href: https://ticket.ibon.com.tw/NewsInfo/Details/2671, Text: 
+[82] Href: https://ticket.ibon.com.tw/Home/MoreResult?inATAPWebType=traffic&inATAPID=216, Text: 
+[83] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=215, Text: 
+[84] Href: javascript:void, Text: 奇美博物館．VR沉浸探險《消失的法老》
+[85] Href: javascript:void, Text: 臺南．臺南市美術館
+[86] Href: javascript:void, Text: 台南．WeMo　Scooter共享機車
+[87] Href: javascript:void, Text: 台南．國立臺灣歷史博物館
+[88] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=213, Text: 
+[89] Href: javascript:void, Text: 史萊姆夜光實驗室
+[90] Href: javascript:void, Text: 嘉義．好想兔海洋探險島
+[91] Href: javascript:void, Text: 桃園．Xpark都會型水生公園＋桃園市兒童美術館
+[92] Href: javascript:void, Text: Baby　Shark　守護海洋大冒險
+[93] Href: javascript:void, Text: 桃園．巧虎夢想樂園
+[94] Href: javascript:void, Text: 南投．九九峰＆薰衣草森林超值雙園套票
+[95] Href: javascript:void, Text: 木柵．臺北市立動物園
+[96] Href: javascript:void, Text: 屏菸1936文化基地．屏東縣立美術館
+[97] Href: javascript:void, Text: 奇美博物館．大英博物館《埃及之王：法老》特展．展期全票
+[98] Href: javascript:void, Text: 嘉義．國立故宮博物院．南部院區
+[99] Href: javascript:void, Text: 台南．國立臺灣歷史博物館
+[100] Href: javascript:void, Text: 台中．國立自然科學博物館．好禮三選一
+[101] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=194, Text: 
+[102] Href: javascript:void, Text: OSAMU　GOODS　50週年展
+[103] Href: javascript:void, Text: 博麗神社例大祭2026　in　台灣
+[104] Href: javascript:void, Text: 《名偵探柯南》TV動畫播放30週年紀念展．台北場
+[105] Href: javascript:void, Text: 木柵．臺北市立動物園
+[106] Href: javascript:void, Text: 臺北市立美術館
+[107] Href: javascript:void, Text: 台北101觀景台
+[108] Href: javascript:void, Text: 臺北捷運24小時票．加送好康優惠券
+[109] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=206, Text: 
+[110] Href: javascript:void, Text: 115丙午馬年．北港朝天宮．祈福點燈
+[111] Href: javascript:void, Text: 115丙午馬年．無極西王靈母母儀宮．祈福點燈
+[112] Href: javascript:void, Text: 115丙午馬年．三義行德宮．祈福點燈
+[113] Href: javascript:void, Text: 115丙午馬年．臺南臺疆祖廟大觀音亭．祈福點燈
+[114] Href: javascript:void, Text: 115丙午馬年．臺南祀典興濟宮．祈福點燈
+[115] Href: javascript:void, Text: 115丙午馬年．新營太子宮．祈福點燈
+[116] Href: javascript:void, Text: 115丙午馬年．士林神農宮．祈福點燈
+[117] Href: javascript:void, Text: 115丙午馬年．麥寮拱範宮．祈福點燈
+[118] Href: javascript:void, Text: 115丙午馬年．木柵忠順廟．祈福點燈
+[119] Href: javascript:void, Text: 115丙午馬年．中壢仁海宮中壢媽．祈福點燈
+[120] Href: javascript:void, Text: 115丙午馬年．蓮花勝境．祈福點燈
+[121] Href: javascript:void, Text: 115丙午馬年．霄裡玉元宮．祈福點燈
+[122] Href: javascript:void, Text: 115丙午馬年．靈鷲山財寶宮殿．祈福點燈
+[123] Href: javascript:void, Text: 115丙午馬年．基隆廣遠壇．祈福點燈
+[124] Href: javascript:void, Text: 115丙午馬年．台北市醒心宮．祈福點燈
+[125] Href: javascript:void, Text: 115丙午馬年．大樹慈后宮巷仔媽．祈福點燈
+[126] Href: javascript:void, Text: 115丙午馬年．台中義虎堂虎爺祖廟．祈福點燈
+[127] Href: javascript:void, Text: 115丙午馬年．北港義民廟．祈福點燈
+[128] Href: javascript:void, Text: 115丙午馬年．桃園護國宮太子廟．祈福點燈
+[129] Href: javascript:void, Text: 115丙午馬年．士林慈諴宮．祈福點燈
+[130] Href: javascript:void, Text: 115丙午馬年．苗栗天后宮．祈福點燈
+[131] Href: javascript:void, Text: 115丙午馬年．臺灣祀典武廟(大關帝廟)．祈福點燈
+[132] Href: javascript:void, Text: 115丙午馬年．基隆指玄宮仙公廟．祈福點燈
+[133] Href: javascript:void, Text: 高雄．野森動物學校
+[134] Href: javascript:void, Text: 桃園．巧虎夢想樂園
+[135] Href: javascript:void, Text: 花蓮．遠雄海洋公園
+[136] Href: javascript:void, Text: 桃園．巧虎夢想樂園
+[137] Href: javascript:void, Text: 【新】新竹．六福村主題遊樂園
+[138] Href: javascript:void, Text: 花蓮．遠雄海洋公園
+[139] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=188, Text: 
+[140] Href: javascript:void, Text: 台中捷運．車票．WeMo套票
+[141] Href: javascript:void, Text: 桃園捷運．一日券．WeMo套票
+[142] Href: javascript:void, Text: 2026年．高雄捷運．高雄樂遊套票
+[143] Href: javascript:void, Text: 雙北．WeMo　Scooter共享機車24小時租再送6個小時
+[144] Href: javascript:void, Text: 台南．WeMo　Scooter共享機車
+[145] Href: javascript:void, Text: 臺北捷運24小時票．加送好康優惠券
+[146] Href: javascript:void, Text: 臺北捷運48小時票．加送好康優惠券
+[147] Href: javascript:void, Text: 恐龍大復活　關渡探險樂園
+[148] Href: javascript:void, Text: 【新】新竹．六福村主題遊樂園
+[149] Href: javascript:void, Text: 【南投】九族文化村
+[150] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=207, Text: 
+[151] Href: javascript:void, Text: 高雄．義大遊樂世界
+[152] Href: javascript:void, Text: 台北．兒童新樂園
+[153] Href: javascript:void, Text: 【新】新竹．六福村主題遊樂園
+[154] Href: javascript:void, Text: 花蓮．遠雄海洋公園
+[155] Href: javascript:void, Text: 【南投】九族文化村
+[156] Href: javascript:void, Text: 礁溪．艾玹爾溫泉商旅
+[157] Href: javascript:void, Text: 礁溪．多愛溫泉會館
+[158] Href: javascript:void, Text: 礁溪．沐恩國際溫泉渡假飯店
+[159] Href: javascript:void, Text: 苗栗．日出溫泉渡假飯店
+[160] Href: javascript:void, Text: 烏來．璞石麗緻溫泉會館
+[161] Href: javascript:void, Text: 宜蘭．葛瑪蘭風呂會館
+[162] Href: javascript:void, Text: 台東．台灣好行．縱谷鹿野線
+[163] Href: javascript:void, Text: 花蓮．遠雄海洋公園
+[164] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=160, Text: 
+[165] Href: javascript:void, Text: 台南．國立臺灣歷史博物館．語音導覽套票
+[166] Href: javascript:void, Text: 文鼎留聲博物館 常設展
+[167] Href: javascript:void, Text: 奇幻Zoo旅：台南頑皮世界 實境解謎遊戲旅遊
+[168] Href: javascript:void, Text: 奇美博物館常設展電子票即買即用
+[169] Href: javascript:void, Text: 台灣好行．阿里山線來回車票
+[170] Href: javascript:void, Text: 台灣好行．墾丁快線
+[171] Href: javascript:void, Text: 台灣好行．溪頭線
+[172] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=189, Text: 
+[173] Href: javascript:void, Text: 台中捷運．車票．WeMo套票
+[174] Href: javascript:void, Text: 桃園捷運．一日券．WeMo套票
+[175] Href: javascript:void, Text: 高雄好玩卡．一日券Kaohsiung　FunPASS
+[176] Href: javascript:void, Text: 2026年．高雄捷運．高雄樂遊套票
+[177] Href: javascript:void, Text: 2026年．高雄捷運．高雄風華套票
+[178] Href: /Home/MoreResult?inATAPWebType=homepage&inATAPID=154, Text: 
+[179] Href: javascript:void, Text: 昨日列車-台北捷運一日解謎旅行(唯一台北捷運公司官方聯名)
+[180] Href: javascript:void, Text: 漫旅-回憶交換所駁二實境解謎城市旅行
+[181] Href: javascript:void, Text: 漫旅-戀戀金九份實境解謎城市旅行
+[182] Href: javascript:void, Text: 奇幻Zoo旅：台南頑皮世界 實境解謎遊戲旅遊
+[183] Href: javascript:void, Text: 朝日萬事屋：堅守平安之心 宜蘭博物館實境遊戲旅遊
+[184] Href: javascript:void, Text: 朝日萬事屋：謎尋時空之門 宜蘭博物館實境遊戲旅遊
+[185] Href: javascript:void, Text: 朝日萬事屋：追述紅金之夢 宜蘭博物館實境遊戲旅遊
+[186] Href: javascript:void, Text: 魔幻海角：大地的祭典 墾丁國家森林遊樂區遊戲旅遊
+[187] Href: javascript:void, Text: 魔幻海角：森林的試煉 墾丁國家森林遊樂區遊戲旅遊
+[188] Href: javascript:void, Text: 時空記憶：桃園大溪老街 團體實境旅遊遊戲包
+[189] Href: /NewsInfo/Details/2528, Text: 營業人資訊
+[190] Href: /NewsInfo/Details/348, Text: 服務條款
+[191] Href: /NewsInfo/Details/349, Text: 隱私權政策
+[192] Href: /Home/Question, Text: 常見問題
+[193] Href: https://www.ibon.com.tw/#gsc.tab=0, Text: ibon官網
+[194] Href: https://www.7-11.com.tw/, Text: 7-ELEVEN
+[195] Href: /Home/Partner, Text: 合作夥伴
+[196] Href: https://www.ibon.com.tw/retail_inquiry.aspx#gsc.tab=0, Text: 門市查詢
+[197] Href: https://165.npa.gov.tw/#/, Text: 反詐騙165
+[198] Href: https://tour.ibon.com.tw/ticket/trust, Text: 信託票券查詢
+[199] Href: https://twitter.com/711_ibon, Text: 
+[200] Href: https://line.me/ti/p/%40gpk2354t, Text: 
+[201] Href: https://www.instagram.com/ibontw/, Text: 
+[202] Href: https://www.facebook.com/711.ibon/, Text: 
+[203] Href: /Home/Contact, Text: 聯絡我們
+
+Activity detail patterns: set()

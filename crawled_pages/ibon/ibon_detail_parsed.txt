@@ -1,0 +1,31 @@
+ActivityID: 39527
+ActivityName: Jane Yeh Birthday Tour 2026 in Taipei 
+ActivityCategoryCode: entertainment
+ActivitySDate: 2026-06-12T00:00:00
+ActivityEDate: 2026-06-13T23:59:59
+ActivityTicketSDate: 2026-04-03T12:00:00
+ActivityTicketEDate: 2026-06-13T15:00:00
+GameTicketURL: /
+
+Menus count: 8
+
+--- Menu 0: 節目介紹 (FieldName: ActivityContent) ---
+<p><span style="font-size:16px;"><strong>【ibon售票網會員登入調整】<br />
+
+為協助您管理帳號登入方式，ibon售票網將提供「會員帳號連結」功能，可整合不同登入方式，讓您日後查找訂單更方便。<br />
+
+為不影響您的購票，請於購票前先完成會員帳號連結設定。<br />
+
+了解更多<a href="https://www.ibon.com.tw/event/openpoint/event26Q1.html" target="_blank">會員帳號連結說明</a></strong></span></p>
+
+
+<hr />
+
+<p><span style="font-size:16px;"><strong><span style="background-color:#ffff00;">【加值優惠】</span><br />
+
+於ibon訂購此活動票券者，購票後自5/15起即可加購高鐵車票並享折扣優惠。[限購去程單程票或來回票。單程票到達站或來回票去程到達站/回程出發站需為台北站。]相關內容請參考 <a href="http://ticket.ibon.com.tw/NewsInfo/Details/2489">ibon票券加購高鐵說明</a></strong></span></p>
+
+
+<hr />
+
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Arial,sans-serif"><span lang="EN-US" style="font-size:15.0pt"><span style="background:white"><span style="line-height:115%"><span style="font-size:36px;"><span style="color:#3498db;"><strong>Jane Yeh Birthday Tour 2026 in Taipei</strong></span></span> </span></span></span></span></span></span></p>

@@ -1,0 +1,32 @@
+
+=========================================
+Site: Era, URL: https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AFRHGU
+Title: 年代售票 | 【高雄拍學院】幕前幕後嗑電影2.0─6月單日票
+
+--- Key text sections ---
+<li class='[]'>: 登入
+<span class='None'>: 登入
+<li class='['hidden']'>: /登出
+<li class='[]'>: 註冊
+<span class='None'>: 註冊
+<li class='None'>: 會員專區
+<span class='None'>: 會員專區
+<span class='['sr-only']'>: Toggle navigation
+<span class='['text-right;']'>: 進階搜尋
+<p class='None'>: tags
+<h1 class='None'>: 【高雄拍學院】幕前幕後嗑電影2.0─6月單日票
+<span class='None'>: 【高雄拍學院】幕前幕後嗑電影2.0─6月單日票
+<p class='None'>: 2026/06/27(Sat)13:30高雄市電影館
+<li class='None'>: 2026/06/27(Sat)13:30
+<span class='['info-desc']'>: 2026/06/27(Sat)13:30
+<span class='None'>: 2026/06/27(Sat)13:30
+<span class='['timezoneSuffix']'>: 2026/06/27(Sat)13:30
+<li class='None'>: 高雄市電影館
+<span class='['info-org', 'mobi-only']'>: 高雄市電影館
+<span class='None'>: 高雄市電影館
+<li class='['active']'>: 節目資訊
+<span class='None'>: 節目資訊
+<li class='None'>: 場次列表
+<span class='None'>: 場次列表
+<span class='None'>: 2026高雄拍學院─幕前幕後嗑電影2.06月美術與動畫主題單日票先是影迷，才是電影人！金獎陣容 X 資深影人｜雙人對談嗑電影電影的多重宇宙，帶你一邊看電影、一邊走進幕後，六月邀請到入圍金馬獎最佳美術設計《請問，還有哪裡需要加強》美術指導吳若昀、榮獲金馬獎最佳動畫短片《螳螂》、《夜車》導演謝文明，帶你用「美術」與「動畫」創作者視角，探索電影全景宇宙。講堂內容：▌06/27(六)13:30-15:30
+... (內容已截斷，原始檔案在 .gemini scratch)
